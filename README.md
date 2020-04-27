@@ -1,2 +1,3 @@
 # -Software-test-job
-What's in it is a software test assignment in school
+在学校时，软件测试作业。
+
